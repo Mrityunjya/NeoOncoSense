@@ -72,17 +72,10 @@ NEOONCOSENSE/
 
 ##  Visual Output Samples
 
-### 🔍 SHAP Force Plot
+<img width="1515" height="870" alt="bcp1" src="https://github.com/user-attachments/assets/066e2a21-b0c2-4833-820d-58307c89e426" />
 
-<p align="center">
-  <img src="assets/shap_force_example.png" width="600"/>
-</p>
+<img width="1576" height="862" alt="image" src="https://github.com/user-attachments/assets/68230b50-13f5-4fac-8507-e340ed077ef9" />
 
-### 📄 PDF Diagnostic Report
-
-<p align="center">
-  <img src="assets/pdf_example_page.png" width="500"/>
-</p>
 
 ---
 
